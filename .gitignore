@@ -1,6 +1,10 @@
+#virtualenv folder
+project_env/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
+https://github.com/Dez113/youtube_captions_translator.git*.py[cod]
 *$py.class
 
 # C extensions
